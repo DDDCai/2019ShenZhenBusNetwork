@@ -23,3 +23,5 @@ D.ENVIRONMENT
 
     Ubuntu 18.04.
     Python 3.7.
+
+If it is helpful for you, please give me a star ^_^ .
