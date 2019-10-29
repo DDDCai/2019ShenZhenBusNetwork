@@ -18,3 +18,8 @@ C.MORE DETAILS
     Check the notes in the code.
   
     Or get more information in my blog (in Chinese) : https://blog.csdn.net/dc199706/article/details/102805903
+
+D.ENVIRONMENT
+
+    Ubuntu 18.04.
+    Python 3.7.
