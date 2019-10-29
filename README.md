@@ -13,5 +13,8 @@ B.RUN IT
   
 C.MORE DETAILS
 
+    Project introduction : cnpp.png.
+
     Check the notes in the code.
   
+    Or get more information in my blog (in Chinese) : https://blog.csdn.net/dc199706/article/details/102805903
