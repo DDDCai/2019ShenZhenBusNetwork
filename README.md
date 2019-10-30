@@ -7,7 +7,7 @@ A.DATA PREPARATION
   
 B.RUN IT
 
-    You can run the program by compile the .c or just run the .py.
+    You can run the program by compiling the .c or just running the .py.
   
     The example codes have been writen as notes in both .c and .py.
   
@@ -15,7 +15,7 @@ C.MORE DETAILS
 
     Project introduction : cnpp.png.
 
-    Check the notes in the code.
+    Check the notes in the codes.
   
     Or get more information in my blog (in Chinese) : https://blog.csdn.net/dc199706/article/details/102805903
 
